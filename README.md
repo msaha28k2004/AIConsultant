@@ -1,1 +1,1 @@
-# MeetAI
+# AI Consult
